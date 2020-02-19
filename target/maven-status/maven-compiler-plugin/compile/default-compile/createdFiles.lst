@@ -1,0 +1,6 @@
+eu\dorsum\javabeans\TestMessageDrivenBean.class
+eu\dorsum\javabeans\TestStatelessEjb.class
+eu\dorsum\javabeans\TestStatefulEjb.class
+eu\dorsum\javabeans\intersface\TestStatelessEjbRemote.class
+eu\dorsum\javabeans\servlet\TestServlet.class
+eu\dorsum\javabeans\TestSingletonEjb.class
